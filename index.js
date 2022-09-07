@@ -51,4 +51,4 @@
 // const phone = "iPhone";
 // const isIphoneUser = phone === "iPhone";
 // console.log(isIphoneUser);
-
+console.log("labas");
